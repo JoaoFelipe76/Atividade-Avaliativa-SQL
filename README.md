@@ -24,6 +24,7 @@ MR
 ![image](https://github.com/user-attachments/assets/db39e5ee-e9f8-4cdc-86c1-1ab9568c0988)
 
 Funçao para redefinir o status.
+
 ![image](https://github.com/user-attachments/assets/0bcb4799-cc53-417b-af92-0a35742ade94)
 
 
